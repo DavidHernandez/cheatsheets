@@ -1,0 +1,16 @@
+/**
+ * @file
+ * Adds the basic styling for the cheatsheets.
+ * Based on http://codepen.io/HugoGiraudel/pen/LklCv
+ */
+
+.container {
+  display: flex;
+  padding: 0;
+  margin; 0;
+}
+
+.section {
+  padding: 10px;
+  margin-top: 10px;
+}
